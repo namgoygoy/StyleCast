@@ -1,0 +1,17 @@
+//
+//  Config-Sample.xcconfig
+//  StyleCast
+//
+//  샘플 설정 파일
+//  사용법:
+//  1. 이 파일을 복사해서 Config.xcconfig로 이름 변경
+//  2. YOUR_API_KEY_HERE를 실제 OpenWeatherMap API 키로 교체
+//  3. Git에 Config.xcconfig는 커밋하지 마세요 (.gitignore에 추가됨)
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+// OpenWeatherMap API 키를 여기에 입력하세요
+// https://openweathermap.org/api 에서 무료 API 키를 발급받을 수 있습니다
+OPENWEATHER_API_KEY = YOUR_API_KEY_HERE 
