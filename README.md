@@ -52,7 +52,9 @@
 ![북마크-프로필탭](https://github.com/user-attachments/assets/1dbb59ca-1a3e-4454-b159-b7f33fd13bc5)
 
 # 🛠️ 기술 스택
-![image](https://github.com/user-attachments/assets/bcb35a96-d5c2-4233-ad7b-9f3d07e8423d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcb35a96-d5c2-4233-ad7b-9f3d07e8423d" alt="기술 스택 이미지" width="400"/>
+</p>
 
 # 🗂️ 프로젝트 진행 및 산출물
 
