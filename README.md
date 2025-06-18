@@ -1,73 +1,68 @@
-# StyleCast
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd74ba09-45f3-4a6b-93f6-38576d8d3a49" alt="앱 시연 GIF" width="500"/>
+</p>
 
-날씨 기반 패션 추천 iOS 앱
 
-## 🚀 프로젝트 설정
 
-### 1. API 키 설정
+# 목차
+1. [개요](# 개요)
+2. [UI 소개](# UI 소개)
+3. 기능 소개
+4. 기술 스택
+5. 프로젝트 진행 및 산출물
 
-이 앱은 OpenWeatherMap API를 사용합니다. 다음 단계를 따라 API 키를 설정해주세요:
+# 📝 개요
+![image](https://github.com/user-attachments/assets/04d5f54c-2e17-41fb-b183-8d550a5ba093)
 
-1. **OpenWeatherMap API 키 발급**
-   - [OpenWeatherMap](https://openweathermap.org/api)에서 무료 계정 생성
-   - API 키 발급받기
 
-2. **설정 파일 생성**
-   ```bash
-   # Config-Sample.xcconfig 파일을 복사하여 Config.xcconfig 생성
-   cp Config-Sample.xcconfig Config.xcconfig
-   ```
 
-3. **API 키 입력**
-   - `Config.xcconfig` 파일을 열어 `YOUR_API_KEY_HERE`를 실제 API 키로 교체
-   ```
-   OPENWEATHER_API_KEY = your_actual_api_key_here
-   ```
+서비스 명: StyleCast
 
-### 2. Firebase 설정
+프로젝트 설명: 
+ 스타일캐스트는 날씨와 패션을 연결하여 사용자의 일상 속 스타일 고민을 해결합니다.
+기상 정보와 사용자 데이터를 통합 분석하여 최적의 스타일을 제안하며, 감각적인 UI/UX와 함께 개인 맞춤형 콘텐츠를 제공합니다.
 
-1. [Firebase Console](https://console.firebase.google.com/)에서 새 프로젝트 생성
-2. iOS 앱 추가 (Bundle ID: 프로젝트의 Bundle Identifier 사용)
-3. `GoogleService-Info.plist` 파일을 다운로드하여 `Firebase/` 폴더에 추가
+# 🎨 UI 소개
+![image](https://github.com/user-attachments/assets/937be893-5471-4649-9e84-6500f68fe8fe)
 
-## 🏗️ 프로젝트 구조
+![image](https://github.com/user-attachments/assets/3c29ad43-48d0-436a-9d00-22c2057b3d74)
 
-```
-StyleCast/
-├── StyleCast/                 # 메인 앱 코드
-│   ├── Models/               # 데이터 모델
-│   ├── Views/                # SwiftUI 뷰
-│   ├── ViewModels/           # MVVM 뷰모델
-│   ├── Services/             # API 및 서비스 레이어
-│   └── Assets.xcassets/      # 이미지 및 컬러 에셋
-├── Config-Sample.xcconfig    # 설정 파일 템플릿
-├── Config.xcconfig          # 실제 설정 파일 (Git에서 제외)
-└── Firebase/                # Firebase 설정 파일
-```
+![image](https://github.com/user-attachments/assets/7ba893ca-c098-42b7-8bfa-b47b727a561a)
 
-## 🔧 주요 기능
+![image](https://github.com/user-attachments/assets/08b43238-a040-4e43-85ec-7437de67262c)
 
-- 🌤️ **실시간 날씨 정보**: OpenWeatherMap API 연동
-- 👔 **패션 추천**: 날씨에 따른 맞춤형 옷차림 추천
-- 🏷️ **스타일 태그**: 스트릿/미니멀 스타일 선택
-- 👨‍👩‍ **성별 구분**: 남성/여성 패션 분리
-- 📍 **위치 기반**: GPS 또는 도시 검색
-- 💾 **사용자 관리**: Firebase 인증 및 프로필
+![image](https://github.com/user-attachments/assets/39ce2cf1-2507-4169-853d-bf5b2a5b086e)
 
-## ⚠️ 주의사항
+# ⚙️ 기능 소개
 
-- `Config.xcconfig` 파일은 Git에 커밋하지 마세요
-- API 키는 절대 소스코드에 하드코딩하지 마세요
-- Firebase 설정 파일도 민감한 정보가 포함되어 있으니 주의하세요
+## 1) 회원 가입 기능
+![회원가입](https://github.com/user-attachments/assets/be7632c5-0564-4782-beeb-49308a9e61e7)
 
-## 🛡️ 보안
+## 2) 로그인 기능
+![로그인](https://github.com/user-attachments/assets/79a2bc7d-4168-4adf-bb2f-54004dfd5512)
 
-- API 키는 Xcode 빌드 설정을 통해 안전하게 관리됩니다
-- 실제 키 파일들은 `.gitignore`에 의해 Git에서 제외됩니다
-- 샘플 설정 파일만 저장소에 포함됩니다
+## 3) 날씨 정보 불러오기
+![날씨-정보](https://github.com/user-attachments/assets/f8350735-7d8e-44e3-80e2-db6b56e04862)
 
-## 📱 요구사항
+## 4) 검색 기능
+![검색-기능](https://github.com/user-attachments/assets/469c3676-b796-4a3c-886e-cd5ee72f7d71)
 
-- iOS 14.0+
-- Xcode 13.0+
-- Swift 5.5+ 
+## 5) 북마크 생성 
+![북마크-상세](https://github.com/user-attachments/assets/496df459-10b4-4bda-9b5d-2a31ccbe4d6b)
+
+## 6) 북마크 삭제 
+![북마크-프로필탭](https://github.com/user-attachments/assets/03bcae5e-a4b5-4df3-a0bd-09bda38fc8f0)
+
+# 💻 기술 스택
+
+# 🗂️ 프로젝트 진행 및 산출물
+
+## 시스템 아키텍처 다이어그램
+![ChatGPT_Image_2025년_4월_21일_오전_12_52_45](https://github.com/user-attachments/assets/03076748-0a28-41df-a426-44cd9c05cec4)
+
+## 유저 플로우 다이어그램
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/393b5193-9d37-4f56-b1b1-acfd66ebca6a" />
+
+## 디렉토리 구조
+
+
