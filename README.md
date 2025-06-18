@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd74ba09-45f3-4a6b-93f6-38576d8d3a49" alt="앱 시연 GIF" width="500"/>
+  <img src="[https://github.com/user-attachments/assets/fd74ba09-45f3-4a6b-93f6-38576d8d3a49](https://github.com/user-attachments/assets/4cef2e66-b1da-4ec4-849a-65f51821b2d1
+)" alt="앱 시연 GIF" width="500"/>
 </p>
-
 
 
 # 목차
@@ -36,32 +36,32 @@
 # ⚙️ 기능 소개
 
 ## 1) 회원 가입 기능
-![회원가입](https://github.com/user-attachments/assets/be7632c5-0564-4782-beeb-49308a9e61e7)
+![회원가입](https://github.com/user-attachments/assets/c8daab72-3fb9-411f-8334-c4073b047c1a)
 
 ## 2) 로그인 기능
-![로그인](https://github.com/user-attachments/assets/79a2bc7d-4168-4adf-bb2f-54004dfd5512)
+![로그인](https://github.com/user-attachments/assets/e1de8302-eab9-4f2c-b5f5-d4db3114d07d)
 
 ## 3) 날씨 정보 불러오기
-![날씨-정보](https://github.com/user-attachments/assets/f8350735-7d8e-44e3-80e2-db6b56e04862)
+![날씨-정보](https://github.com/user-attachments/assets/f24d1f11-d2ea-4df6-8c9f-55cf595fd075)
 
 ## 4) 검색 기능
-![검색-기능](https://github.com/user-attachments/assets/469c3676-b796-4a3c-886e-cd5ee72f7d71)
+![검색-기능](https://github.com/user-attachments/assets/bfa3dae0-eeff-4ee0-a69a-a524b11cd6f0)
 
 ## 5) 북마크 생성 
-![북마크-상세](https://github.com/user-attachments/assets/496df459-10b4-4bda-9b5d-2a31ccbe4d6b)
+![북마크-상세](https://github.com/user-attachments/assets/8c0d5552-5b32-43ec-8d2e-8501ce96e92f)
 
 ## 6) 북마크 삭제 
-![북마크-프로필탭](https://github.com/user-attachments/assets/03bcae5e-a4b5-4df3-a0bd-09bda38fc8f0)
+![북마크-프로필탭](https://github.com/user-attachments/assets/1dbb59ca-1a3e-4454-b159-b7f33fd13bc5)
 
 # 💻 기술 스택
 
 # 🗂️ 프로젝트 진행 및 산출물
 
 ## 시스템 아키텍처 다이어그램
-![ChatGPT_Image_2025년_4월_21일_오전_12_52_45](https://github.com/user-attachments/assets/03076748-0a28-41df-a426-44cd9c05cec4)
+![ChatGPT_Image_2025년_4월_21일_오전_12_52_45](https://github.com/user-attachments/assets/5aacb372-93a4-417b-acc9-0c56be0ace48)
 
 ## 유저 플로우 다이어그램
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/393b5193-9d37-4f56-b1b1-acfd66ebca6a" />
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/046c3e11-2cf3-417b-8048-ed8b1c02427d" />
 
 ## 디렉토리 구조
 
