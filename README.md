@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/fd74ba09-45f3-4a6b-93f6-38576d8d3a49](https://github.com/user-attachments/assets/4cef2e66-b1da-4ec4-849a-65f51821b2d1
-)" alt="앱 시연 GIF" width="500"/>
+<img src="https://github.com/user-attachments/assets/a7056208-fdb2-4e52-9a65-4b2f8ea00648
+" alt="앱 시연 GIF" width="500"/>
 </p>
-
 
 # 목차
 1. [개요](# 개요)
