@@ -12,7 +12,7 @@
 5. 프로젝트 진행 및 산출물
 
 # 📝 개요
-![image](https://github.com/user-attachments/assets/04d5f54c-2e17-41fb-b183-8d550a5ba093)
+![image](https://github.com/user-attachments/assets/e310dc0a-bffb-48e7-a5a1-c89b08f4610e)
 
 
 
