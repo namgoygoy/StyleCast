@@ -51,7 +51,15 @@
 ## 6) 북마크 삭제 
 ![북마크-프로필탭](https://github.com/user-attachments/assets/1dbb59ca-1a3e-4454-b159-b7f33fd13bc5)
 
-# 💻 기술 스택
+# 🛠️ 기술 스택
+언어 & 프레임워크
+Swift (iOS 개발 언어)
+SwiftUI (UI 프레임워크)
+데이터베이스
+Firebase Firestore (NoSQL 클라우드 데이터베이스)
+API
+OpenWeatherMap API (날씨 정보)
+Firebase Authentication (로그인/회원가입)
 
 # 🗂️ 프로젝트 진행 및 산출물
 
