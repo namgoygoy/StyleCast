@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d235108e-1557-40ec-9f2d-0ac66c8843de" alt="앱 시연 GIF" width="350"/>
+  <img src="https://github.com/user-attachments/assets/d235108e-1557-40ec-9f2d-0ac66c8843de" alt="앱 시연 GIF" width="400"/>
 </p>
 
 # 목차
