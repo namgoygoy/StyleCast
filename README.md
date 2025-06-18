@@ -62,5 +62,6 @@
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/046c3e11-2cf3-417b-8048-ed8b1c02427d" />
 
 ## 디렉토리 구조
+![image](https://github.com/user-attachments/assets/9a74050c-ad8f-442d-a9ca-d9d13adaa777)
 
 
