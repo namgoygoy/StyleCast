@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/d235108e-1557-40ec-9f2d-0ac66c8843de" alt="앱 시연 GIF" width="350"/>
 </p>
 
-
-
 # 목차
 1. [개요](# 개요)
 2. [UI 소개](# UI 소개)
