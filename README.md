@@ -2,12 +2,13 @@
   <img src="https://github.com/user-attachments/assets/d235108e-1557-40ec-9f2d-0ac66c8843de" alt="앱 시연 GIF" width="400"/>
 </p>
 
-# 목차
-1. [개요](# 개요)
-2. [UI 소개](# UI 소개)
-3. 기능 소개
-4. 기술 스택
-5. 프로젝트 진행 및 산출물
+## 📚 목차
+1. [개요](#📝-개요)
+2. [UI 소개](#🎨-ui-소개)
+3. [기능 소개](#⚙️-기능-소개)
+4. [기술 스택](#🛠️-기술-스택)
+5. [프로젝트 진행 및 산출물](#🗂️-프로젝트-진행-및-산출물)
+
 
 # 📝 개요
 ![image](https://github.com/user-attachments/assets/e310dc0a-bffb-48e7-a5a1-c89b08f4610e)
