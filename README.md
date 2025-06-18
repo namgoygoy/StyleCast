@@ -20,15 +20,15 @@
 기상 정보와 사용자 데이터를 통합 분석하여 최적의 스타일을 제안하며, 감각적인 UI/UX와 함께 개인 맞춤형 콘텐츠를 제공합니다.
 
 # 🎨 UI 소개
-![image](https://github.com/user-attachments/assets/937be893-5471-4649-9e84-6500f68fe8fe)
+![image](https://github.com/user-attachments/assets/7e7ec3ca-6882-4d0d-a955-8ba05d876466)
 
-![image](https://github.com/user-attachments/assets/3c29ad43-48d0-436a-9d00-22c2057b3d74)
+![image](https://github.com/user-attachments/assets/ac4535ce-2a99-4059-a58a-ca556a0d3837)
 
-![image](https://github.com/user-attachments/assets/7ba893ca-c098-42b7-8bfa-b47b727a561a)
+![image](https://github.com/user-attachments/assets/7609ee6b-9931-4b17-b861-dc53ce792b17)
 
-![image](https://github.com/user-attachments/assets/08b43238-a040-4e43-85ec-7437de67262c)
+![image](https://github.com/user-attachments/assets/43889beb-1732-4712-b8b7-71cbe214a96c)
 
-![image](https://github.com/user-attachments/assets/39ce2cf1-2507-4169-853d-bf5b2a5b086e)
+![image](https://github.com/user-attachments/assets/15733335-52b2-4db4-8410-c2d88ca6b230)
 
 # ⚙️ 기능 소개
 
