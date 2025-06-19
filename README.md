@@ -23,13 +23,11 @@
 
 | 회원 가입 | 로그인 | 날씨 정보 불러오기 |
 |-----------|--------|---------------------|
-| <img src="https://github.com/user-attachments/assets/c8daab72-3fb9-411f-8334-c4073b047c1a" width="250"/> | <img src="https://github.com/user-attachments/assets/e1de8302-eab9-4f2c-b5f5-d4db3114d07d" width="250"/> | <img src="https://github.com/user-attachments/assets/f24d1f11-d2ea-4df6-8c9f-55cf595fd075" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/c8daab72-3fb9-411f-8334-c4073b047c1a" width="250"/> | <img src="https://github.com/user-attachments/assets/e89062ca-5aae-4615-aa77-ca2aa08ffd83" width="250"/> | <img src="https://github.com/user-attachments/assets/f24d1f11-d2ea-4df6-8c9f-55cf595fd075" width="250"/> |
 
 | 검색 기능 | 북마크 생성 | 북마크 삭제 |
 |-----------|--------------|--------------|
-| <img src="https://github.com/user-attachments/assets/e0c10949-2e13-49b8-8219-892090d5c80e" width="250"/> | <img src="https://github.com/user-attachments/assets/8c0d5552-5b32-43ec-8d2e-8501ce96e92f" width="250"/> | <img src="https://github.com/user-attachments/assets/1dbb59ca-1a3e-4454-b159-b7f33fd13bc5" width="250"/> |
-
-
+| <img src="https://github.com/user-attachments/assets/e0c10949-2e13-49b8-8219-892090d5c80e" width="250"/> | <img src="https://github.com/user-attachments/assets/8c0d5552-5b32-43ec-8d2e-8501ce96e92f" width="250"/> | <img src="https:/
 
 👆 각 이미지를 클릭하시면 전체 화면으로 자세히 확인하실 수 있어요.
 
