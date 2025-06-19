@@ -21,11 +21,11 @@
 
 # ⚙️ 기능 소개
 
-| 회원 가입 | 로그인 | 날씨 정보 불러오기 |
+| 회원 가입 | 로그인 | 날씨 정보 불러오기(핵심) |
 |-----------|--------|---------------------|
 | <img src="https://github.com/user-attachments/assets/7962c5bc-cf42-4a07-9098-f86ab6eb8932" width="250"/> | <img src="https://github.com/user-attachments/assets/0efa4d47-c303-4ed8-89e1-589833ba8956" width="250"/> | <img src="https://github.com/user-attachments/assets/c822b08d-2b6d-47c0-af4a-d7aff6b4f756" width="250"/> |
 
-| 검색 기능 | 북마크 생성 | 북마크 삭제 |
+| 검색 기능 및 스타일 추천 | 북마크 생성 | 북마크 삭제 |
 |-----------|--------------|--------------|
 | <img src="https://github.com/user-attachments/assets/5bb213c0-596b-4efb-b31a-e672f80ffa33" width="250"/> | <img src="https://github.com/user-attachments/assets/4d469efb-a5b4-4ed3-86d5-e7337ad0157e" width="250"/> | <img src="https://github.com/user-attachments/assets/87078d37-4473-4dbc-b2af-9dbdde8f491e" width="250"/> |
 
