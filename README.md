@@ -19,15 +19,36 @@
  스타일캐스트는 날씨와 패션을 연결하여 사용자의 일상 속 스타일 고민을 해결합니다.
 기상 정보와 사용자 데이터를 통합 분석하여 최적의 스타일을 제안하며, 감각적인 UI/UX와 함께 개인 맞춤형 콘텐츠를 제공합니다.
 
-# ⚙️ 기능 소개
+# ⚙️ 기능 소개  
+> 📌 이미지를 클릭하면 더 크게 보실 수 있습니다.
 
-| 회원 가입 | 로그인 | 날씨 정보 불러오기(핵심) |
-|-----------|--------|---------------------|
-| <img src="https://github.com/user-attachments/assets/7962c5bc-cf42-4a07-9098-f86ab6eb8932" width="250"/> | <img src="https://github.com/user-attachments/assets/0efa4d47-c303-4ed8-89e1-589833ba8956" width="250"/> | <img src="https://github.com/user-attachments/assets/c822b08d-2b6d-47c0-af4a-d7aff6b4f756" width="250"/> |
+<div align="center">
 
-| 검색 기능 및 스타일 추천 | 북마크 생성 | 북마크 삭제 |
-|-----------|--------------|--------------|
-| <img src="https://github.com/user-attachments/assets/5bb213c0-596b-4efb-b31a-e672f80ffa33" width="250"/> | <img src="https://github.com/user-attachments/assets/4d469efb-a5b4-4ed3-86d5-e7337ad0157e" width="250"/> | <img src="https://github.com/user-attachments/assets/87078d37-4473-4dbc-b2af-9dbdde8f491e" width="250"/> |
+<table>
+  <tr>
+    <th>회원 가입</th>
+    <th>로그인</th>
+    <th>날씨 정보 불러오기</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7962c5bc-cf42-4a07-9098-f86ab6eb8932" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0efa4d47-c303-4ed8-89e1-589833ba8956" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c822b08d-2b6d-47c0-af4a-d7aff6b4f756" width="250"/></td>
+  </tr>
+  <tr>
+    <th>검색 기능 및 스타일 추천</th>
+    <th>북마크 생성</th>
+    <th>북마크 삭제</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5bb213c0-596b-4efb-b31a-e672f80ffa33" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4d469efb-a5b4-4ed3-86d5-e7337ad0157e" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/87078d37-4473-4dbc-b2af-9dbdde8f491e" width="250"/></td>
+  </tr>
+</table>
+
+</div>
+
 
 # 🎨 UI 소개
 ![image](https://github.com/user-attachments/assets/7e7ec3ca-6882-4d0d-a955-8ba05d876466)
