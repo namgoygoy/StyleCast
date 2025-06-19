@@ -29,6 +29,8 @@
 |-----------|--------------|--------------|
 | <img src="https://github.com/user-attachments/assets/bfa3dae0-eeff-4ee0-a69a-a524b11cd6f0" width="400"/> | <img src="https://github.com/user-attachments/assets/8c0d5552-5b32-43ec-8d2e-8501ce96e92f" width="400"/> | <img src="https://github.com/user-attachments/assets/1dbb59ca-1a3e-4454-b159-b7f33fd13bc5" width="400"/> |
 
+👆 각 이미지를 클릭하시면 전체 화면으로 자세히 확인하실 수 있어요.
+
 # 🎨 UI 소개
 ![image](https://github.com/user-attachments/assets/7e7ec3ca-6882-4d0d-a955-8ba05d876466)
 
