@@ -25,6 +25,9 @@
 |-----------|--------|---------------------|
 | <img src="https://github.com/user-attachments/assets/c8daab72-3fb9-411f-8334-c4073b047c1a" width="400"/> | <img src="https://github.com/user-attachments/assets/e1de8302-eab9-4f2c-b5f5-d4db3114d07d" width="400"/> | <img src="https://github.com/user-attachments/assets/f24d1f11-d2ea-4df6-8c9f-55cf595fd075" width="400"/> |
 
+![검색기능](https://github.com/user-attachments/assets/e0c10949-2e13-49b8-8219-892090d5c80e)
+
+
 | 검색 기능 | 북마크 생성 | 북마크 삭제 |
 |-----------|--------------|--------------|
 | <img src="https://github.com/user-attachments/assets/bfa3dae0-eeff-4ee0-a69a-a524b11cd6f0" width="400"/> | <img src="https://github.com/user-attachments/assets/8c0d5552-5b32-43ec-8d2e-8501ce96e92f" width="400"/> | <img src="https://github.com/user-attachments/assets/1dbb59ca-1a3e-4454-b159-b7f33fd13bc5" width="400"/> |
