@@ -28,7 +28,7 @@
   <tr>
     <th>회원 가입</th>
     <th>로그인</th>
-    <th>날씨 정보 불러오기(핵심)</th>
+    <th>날씨 정보 불러오기 (핵심)</th>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/7962c5bc-cf42-4a07-9098-f86ab6eb8932" width="230"/></td>
